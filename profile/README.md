@@ -20,6 +20,8 @@ In the future, we aim to expand beyond mobile phones to cover more gadgets and t
 
 Your feedback and ideas help shape Spexware! Join the conversation in our GitHub Discussions, where you can:
 
+_**Note:** For this step, a GitHub account is necessary. If you haven't got one, create one [here](https://github.com/join)._
+
 - 🐞 Report Issues & Bugs → Post in the Glitches & Bugs category [here](https://github.com/spexware/.github/discussions/new?category=glitches-bugs).
 - 💡 Share Ideas & Suggestions → Contribute to the Ideas section [here](https://github.com/spexware/.github/discussions/new?category=ideas).
 - ❓ Ask Questions & Get Help → Find answers in Q&A discussions [here](https://github.com/spexware/.github/discussions/new?category=q-a).
