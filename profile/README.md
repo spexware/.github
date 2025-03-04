@@ -18,7 +18,13 @@ In the future, we aim to expand beyond mobile phones to cover more gadgets and t
 
 #### 🌎 Get Involved
 
-Your feedback and ideas help shape Spexware! Join the conversation in our GitHub Discussions, where you can:
+We value your feedback and ideas! You can contribute in two ways:
+
+##### 1. Discord (Easier, faster feedback):
+
+For quick bug reports and general feedback, join our [Discord server](https://discord.gg/29b7azHbE9)! It's a simple way to connect with the community and developers. You can share your thoughts and issues directly in the relevant channels.
+
+##### 2. GitHub Discussions (For detailed feedback):
 
 _**Note:** For this step, a GitHub account is necessary. If you haven't got one, create one [here](https://github.com/join)._
 
